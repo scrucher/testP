@@ -138,6 +138,6 @@ MESSAGE_TAGS = {
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend' # new
 EMAIL_HOST = ' localhost ' # new smtp.sendgrid.net
 EMAIL_HOST_USER = 'jhonsteph666@gmail.com' # new
-EMAIL_HOST_PASSWORD = 'dark@life@2014' # new
+EMAIL_HOST_PASSWORD = '***************' # new
 EMAIL_PORT = 587 # new
 EMAIL_USE_TLS = False # new
